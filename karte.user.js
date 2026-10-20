@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         W257 - HLVTC
-// @version      1.17
+// @version      1.18
 // @description  draw on map
 // @author       Shinko to Kuma, suilenroc
 // @match        https://de257.die-staemme.de/game.php?*village=*screen=map*
